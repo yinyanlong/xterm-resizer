@@ -1,0 +1,11 @@
+{
+    "name": "Chrome Xterm Resizer",
+    "version": "1.0.0",
+    "description": "A Chrome web browser extension tool for resizing Xterm window in webpage",
+    "manifest_version": 3,
+    "author": "Yanlong Yin",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Xterm Resizer"
+    }
+}
